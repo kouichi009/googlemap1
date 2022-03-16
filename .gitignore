@@ -1,0 +1,6 @@
+.DS_Store
+Podfile.lock
+Pods/
+goolemap02.xcodeproj/
+goolemap02.xcworkspace/
+goolemap02/apikey.plist
